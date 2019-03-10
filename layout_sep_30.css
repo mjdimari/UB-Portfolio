@@ -1,0 +1,28 @@
+body{
+	width: 960px;
+}
+
+h2{
+	width: 300px;
+	margin: 10px 480px 10px;
+}
+
+dt{
+	width: 450px;
+	margin: 10px 240px 10px;
+}
+
+dd{
+	size: 24px;
+	margin: 10px 120px 10px;
+}
+
+#header{
+	background-color: gold;
+	padding: 20px;
+	margin: 0px auto 10px 15px;
+}
+
+#header{
+	position: fixed;
+}

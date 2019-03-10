@@ -1,0 +1,84 @@
+.menu{
+			float:left;
+			width: 100px;
+			list-style-type:none;
+			text-align:center;
+}
+
+.cover {
+			width: 200px;
+			height: 275px;
+				opacity: 0.25;
+	}
+
+.character {
+			width: 150px;
+			height: 300px;	
+	}		
+
+.cover:hover{
+		opacity: 1.0;
+	}	
+
+table, th {
+			border:1px solid gold;
+}
+
+
+th, h2{
+	color: red;
+}
+
+dt{
+	color: navy;
+	text-align: left;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+input.submit {
+	background-color: darkred;
+}
+
+input.submit:hover {
+	background-color: blue;
+}
+
+input.submit:active {
+	background-color: gold;
+}
+
+input.text {
+	color: #cccccc;
+}
+
+input.text:focus {
+	color: #665544;
+}			
+
+input.comment {
+	color: #cccccc;
+}
+
+input.comment:focus {
+	color: #665544;
+}	
+
+body{
+	color: darkred;
+	background-color: black;
+}
+
+a:link {
+	color: darkred;
+	text-decoration: none;
+}
+
+a:visited {
+	color: gray;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
